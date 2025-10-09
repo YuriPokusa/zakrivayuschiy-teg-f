@@ -15,3 +15,14 @@
         transform: scale(1.25);
     }
 }
+
+@keyframes blink {
+    0% {
+        fill: transparent;
+    }
+
+    100% {
+        fill: var(--heart-active-color);
+    }
+}
+

@@ -19,12 +19,13 @@
     --save-button-inline-size: clamp(306px, 48.6vw, 335px);
     --accent-color: black;
     --hover-button-color: white;
-    --heart-border-color: black;
+    --heart-border-color: rgba(0, 0, 0, 1);
     --heart-body-color: transparent;
     --heart-core-color: transparent;
-    --heart-active-color: red;
+    --heart-active-color: rgba(255, 0, 0, 1);
     --animation-fill-color: transparent;
     --label-contour-color: white;
+    --color-button-text: #fff;
 }
 
 
